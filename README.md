@@ -1,14 +1,38 @@
-Data Diri
+# 📘 Praktikum Pembelajaran Mesin  
 
-Nama: Fajrul Santoso
+## 👤 Data Diri  
+- **Nama** : Fajrul Santoso  
+- **NIM** : 244107023010  
+- **Kelas** : TI_3H  
+- **Program Studi** : D-IV Teknik Informatika  
 
-NIM: [244107023010]
+---
 
-Kelas: [TI_3H]
+## 📂 Struktur Praktikum  
 
-Prodi: [ D-IV Teknik Informatika]
+### 🔹 Minggu 2  
+**Jobsheet**: Praktikum Minggu Kedua  
 
-Mata Kuliah: Praktikum [Pembelajaran mesin]
 
-Praktikum minggu kedua 2 untuk jobsheet minggu kedua dan berserta tugasnya 
-week 3 untuk jobsheet minggu ke 3 beserta tugasnya
+### 🔹 Minggu 3  
+**Jobsheet**: Praktikum Minggu Ketiga  
+
+
+---
+
+## 📑 Catatan  
+Repositori ini dibuat untuk dokumentasi **praktikum pembelajaran mesin** di Politeknik Negeri Malang.  
+Setiap minggu berisi **jobsheet** dan **tugas** yang sudah dikerjakan.  
+
+---
+
+## 🚀 Teknologi yang Digunakan  
+- Python 3  
+- Jupyter/Google Colab  
+- Numpy, Pandas, Matplotlib, Seaborn  
+- TensorFlow / Keras  
+- Scikit-learn  
+
+---
+
+✍️ *Dikerjakan oleh Fajrul Santoso, TI_3H – Praktikum Pembelajaran Mesin*  
